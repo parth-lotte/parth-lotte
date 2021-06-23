@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **creating webpages and projects using C++.**
 
-- 🌱 I’m currently learning **Python, Javascript and Blockchain Technology and Machine Learning & AI.**
+- 🌱 I’m currently learning **Python, Javascript, Blockchain Technology and Machine Learning & AI.**
 
 - 💬 Ask me about **Crypto & Blockchain.**
 
