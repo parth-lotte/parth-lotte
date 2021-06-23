@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, I'm Parth Lotte</h1>
 <h3 align="center">a tech enthusiast with knowledge of Blockchain & Crypto.😎</h3>
 
+<p><img align="right" src="https://github.com/parth-lotte/parth-lotte/blob/main/tenor.gif" width="300" height="220" /></p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-lotte&label=Profile%20views&color=0e75b6&style=flat" alt="parth-lotte" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lotte_parth" target="blank"><img src="https://img.shields.io/twitter/follow/lotte_parth?logo=twitter&style=for-the-badge" alt="lotte_parth" /></a> </p>
