@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-lotte&label=Profile%20views&color=0e75b6&style=flat" alt="parth-lotte" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lotte_parth" target="blank"><img src="https://img.shields.io/twitter/follow/lotte_parth?logo=twitter&style=for-the-badge" alt="lotte_parth" /></a> </p>
-![Twitter URL](https://img.shields.io/twitter/url?color=orange&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Flotte_parth)
+
 
 - 🔭 I’m currently working on **creating webpages and projects using C++.**
 
@@ -37,4 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-lotte&" alt="parth-lotte" /></p>
 
 <!-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/parth-lotte/parth-lotte?color=neon&label=Commit%20Made&logo=Github&logoColor=orange&style=flat-square) -->
+![Twitter URL](https://img.shields.io/twitter/url?color=orange&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Flotte_parth)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/parth-lotte/parth-lotte?color=neon&label=Commit%20Made&logo=Github&logoColor=orange&style=flat-square)
