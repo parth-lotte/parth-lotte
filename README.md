@@ -35,4 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-lotte&" alt="parth-lotte" /></p>
 
+<!-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/parth-lotte/parth-lotte?color=neon&label=Commit%20Made&logo=Github&logoColor=orange&style=flat-square) -->
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/parth-lotte/parth-lotte?color=neon&label=Commit%20Made&logo=Github&logoColor=orange&style=flat-square)
