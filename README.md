@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-lotte&show_icons=true&locale=en" alt="parth-lotte" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-lotte&" alt="parth-lotte" /></p>
+
+https://img.shields.io/github/commit-activity/m/parth-lotte/parth-lotte?color=neon&label=Commit%20Made&logo=Github&logoColor=orange&style=flat-square
