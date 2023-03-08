@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Parth Lotte</h1>
-<h3 align="center">a tech enthusiast with knowledge of Blockchain & Crypto.😎</h3>
+<h3 align="center">a tech enthusiast with knowledge of Deep Learning & Computer Vision.😎</h3>
 
 <p><img align="right" src="https://github.com/parth-lotte/parth-lotte/blob/main/tenor.gif" width="300" height="220" /></p>
 
@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/lotte_parth" target="blank"><img src="https://img.shields.io/twitter/follow/lotte_parth?logo=twitter&style=for-the-badge" alt="lotte_parth" /></a> </p>
 
 
-- 🔭 I’m currently working on **creating webpages and projects using C++.**
+- 🔭 I’m currently working in the field of **Deep Learning & Computer Vision **
 
-- 🌱 I’m currently learning **Python, Javascript, Blockchain Technology and Machine Learning & AI.**
+- 🌱 I’m currently learning **Python Libraries, Java & Frameworks**
 
-- 💬 Ask me about **Crypto & Blockchain.**
+- 💬 Ask me about **anything except academics**
 
 - 📫 How to reach me **parth33998@gmail.com**
 
