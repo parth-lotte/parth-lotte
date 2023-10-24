@@ -2,16 +2,16 @@
 
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :24.10.2023](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![version :24.10.2023](https://img.shields.io/badge/version-24.10.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ParthLotte&color=red)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-☕ &nbsp;**Java Maestro**: Fluent in the language of Java, I orchestrate elegant software symphonies.
+☕ &nbsp;**Java Maestro**: Fluent in the language of Java, I orchestrate elegant software symphonies. \
 💻 &nbsp;I’m currently working in the field of Deep Learning & Computer Vision. \
 🎓&nbsp; Undergraduate Pursuing a Bachelor's Degree in Computer Science and Engineering at Manipal University Jaipur. \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Structure, Algorithms and Computer Vision.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at parth33998@gmail.com. I'll try to respond as soon as possible!\
+💬 &nbsp;Feel free to reach out to me. \
+✉️ &nbsp;You can email me at parth33998@gmail.com. I'll try to respond as soon as possible! \
 
 
 
