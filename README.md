@@ -1,5 +1,6 @@
 ![Leetcode Stats]()
 [![Leetcode Stats](https://leetcode.com/parth33998/)](https://leetcode.com/parth33998/)
+![](https://leetcode.com/parth33998/?cache=0)
 
 <h1 align="center">Hola 👋, I'm Parth Lotte</h1>
 <h3 align="center">a Tech enthusiast with knowledge of Deep Learning & Computer Vision.😎</h3>
