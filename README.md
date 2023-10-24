@@ -11,7 +11,7 @@
 🎓&nbsp; Undergraduate Pursuing a Bachelor's Degree in Computer Science and Engineering at Manipal University Jaipur. \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Structure, Algorithms and Computer Vision.\
 💬 &nbsp;Feel free to reach out to me. \
-✉️ &nbsp;You can email me at parth33998@gmail.com. I'll try to respond as soon as possible! \
+✉️ &nbsp;You can email me at parth33998@gmail.com. I'll try to respond as soon as possible!. 
 
 
 
