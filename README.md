@@ -8,11 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/lotte_parth" target="blank"><img src="https://img.shields.io/twitter/follow/lotte_parth?logo=twitter&style=for-the-badge" alt="lotte_parth" /></a> </p>
 
-           <h2> ☕ **Java Maestro**: Fluent in the language of Java, I orchestrate elegant software symphonies.</h2>
 
-                       🔭 I’m currently working in the field of **Deep Learning & Computer Vision **
 
-                       🌱 I’m currently learning **Python Libraries, Java & Frameworks**
+
+
+<h2> ☕ **Java Maestro**: Fluent in the language of Java, I orchestrate elegant software symphonies.</h2>
+
+🔭 I’m currently working in the field of **Deep Learning & Computer Vision **
+
+🌱 I’m currently learning **Python Libraries, Java & Frameworks**
 
   
 
