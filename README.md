@@ -4,7 +4,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ParthLotte&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/ParthLotte?label=follow&style=social)](https://github.com/ParthLotte)&nbsp;
+[![GitHub ParthLotte](https://img.shields.io/github/followers/ParthLotte?label=follow&style=social)](https://github.com/ParthLotte)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -45,7 +45,7 @@
 <a href="https://instagram.com/abhi_1507"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 <!--
-**AbhishekSinghDhadwal/AbhishekSinghDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ParthLotte/ParthLotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
