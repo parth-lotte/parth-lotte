@@ -1,53 +1,54 @@
+# Hola!👋
+## :book: About Me
+   𝙸'𝚖 𝚊𝚗 𝚞𝚗𝚍𝚎𝚛𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚖𝚊𝚓𝚘𝚛𝚒𝚗𝚐 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐, 𝚠𝚒𝚝𝚑 𝚊 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚅𝚒𝚜𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
+ 
+ - 𝙰𝚝 𝚙𝚛𝚎𝚜𝚎𝚗𝚝 𝚛𝚎𝚏𝚒𝚗𝚒𝚗𝚐 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚊𝚝 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚅𝚒𝚜𝚒𝚘𝚗 & 𝙽𝙻𝙿 𝚠𝚒𝚝𝚑 𝚊 𝚙𝚛𝚒𝚖𝚎 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎. 
+ - 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 : <parth33998@gmail.com>
+
+ ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝚕𝚒𝚏𝚎 𝚒𝚜 𝚓𝚞𝚜𝚝 𝚊𝚗𝚘𝚝𝚑𝚎𝚛 𝚐𝚊𝚖𝚎. 𝚃𝚘 𝚠𝚒𝚗 𝚒𝚝, 𝚢𝚘𝚞 𝚜𝚑𝚘𝚞𝚕𝚍 𝚏𝚒𝚗𝚍 𝚢𝚘𝚞𝚛 𝚍𝚎𝚜𝚝𝚒𝚗𝚊𝚝𝚒𝚘𝚗.
+
+## 🛠️ My Skill Set
+#### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS#](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) 
 
 
+ 
+ #### 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜/𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
+ <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+ <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+ <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+ 
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :24.10.2023](https://img.shields.io/badge/version-24.10.2023-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=ParthLotte&color=red)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
+ 
+ 
+ 
+ <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/matplotlib-004088?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
+  <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-☕ &nbsp;**Java Maestro**: Fluent in the language of Java, I orchestrate elegant software symphonies. \
-💻 &nbsp;I’m currently working in the field of Deep Learning & Computer Vision. \
-🎓&nbsp; Undergraduate Pursuing a Bachelor's Degree in Computer Science and Engineering at Manipal University Jaipur. \
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Structure, Algorithms and Computer Vision.\
-💬 &nbsp;Feel free to reach out to me. \
-✉️ &nbsp;You can email me at parth33998@gmail.com. I'll try to respond as soon as possible!
+  
+ #### 𝚃𝚘𝚘𝚕𝚜
+  <img src = "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
+  ### Databases
+  ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+ 
+ 
 
+ ### [![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parth-lotte&theme=nord)](https://github.com/parth-lotte/github-readme-activity-graph)
+ 
+<div align="center">
+ 
+## 🔗 Connect with me
+<div align="center">
 
-### 🛠 &nbsp;Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-
-
-### 📫 &nbsp; How to reach me:
-
-
-<a href="https://www.linkedin.com/in/parth-lotte-007/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:parth33998@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
-[![LeetCode user parth33998](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fparth33998&logo=leetcode&logoColor=yellow)](https://leetcode.com/parth33998/)
+<a href="https://www.linkedin.com/in/parth-lotte-007/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 
-<!--
-**ParthLotte/ParthLotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+ 
+ 
+</div>  
+  
